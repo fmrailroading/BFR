@@ -1,0 +1,2 @@
+# BFR
+Belgian FRank Coins
